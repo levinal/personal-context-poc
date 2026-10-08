@@ -1,5 +1,7 @@
 # Personal Context POC
 
+Start with [PRODUCT.md](PRODUCT.md) for the product motivation, target users, requirements, validation plan, and open decisions. [PLAN.md](PLAN.md) contains the technical architecture and implementation milestones.
+
 Milestone 1 implements a local, source-independent ingestion pipeline:
 
 ```text
